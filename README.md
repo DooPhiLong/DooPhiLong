@@ -1,4 +1,5 @@
 # 💫About Me :
+Hi! I'm Phi Long
 🌱 I’m currently learning SQL, Python, R, Power BI
 
 👨‍💻 All of my projects are available at https://github.com/DooPhiLong
